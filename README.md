@@ -7,9 +7,12 @@
 4. Наслаждайтесь использованием.
 
 #### Dependences
+-  Windows 10 Home
 - NetFramework 4.7.2 
 Download: http://go.microsoft.com/fwlink/?linkid=863265
 - Details: https://support.microsoft.com/ru-ru/help/4073120/microsoft-net-framework-4-7-2-for-windows-10-version-1709-and-windows
+-  Windows 10 Pro
+- NetFramework 4.6.2 Download: https://www.microsoft.com/ru-RU/download/details.aspx?id=53344
 
 
 ##### Категории
